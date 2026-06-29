@@ -29,6 +29,16 @@ Players control a wizard who must catch falling crystals, avoid flying bats, and
 
 ---
 
+## 🚀 How to Run
+
+1. Download the `Scratch Project.sb3` file.
+2. Open Scratch at https://scratch.mit.edu/.
+3. Select **File → Load from your computer**.
+4. Choose the downloaded `.sb3` file.
+5. Click the green flag to start playing.
+
+---
+
 ## 🛠 Technologies Used
 
 - Scratch
